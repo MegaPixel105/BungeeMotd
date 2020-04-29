@@ -1,0 +1,32 @@
+spawn:
+  x: 100
+  y: 100
+  z: 100
+  yaw: 100
+  pitch: 100
+game:
+  builduhc:
+    name: "BuildUhc"
+    # representative item
+    item: LAVA_BUCKET
+    arenes:
+      arene1:
+        x1: 100
+        y1: 100
+        z1: 100
+        yaw1: 100
+        pitch1: 100
+        x2: 100
+        y2: 100
+        z2: 100
+        yaw2: 100
+        pitch2: 100
+    kit:
+      sword:
+        material: diamond_sword
+        amount: 1
+        data: 0
+        enchantment:
+          sharpness:
+            id: 16
+            level: 3
